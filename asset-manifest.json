@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://muathzoubi.github.io/csb-wmt5dy/static/css/main.deb4d580.chunk.css",
+    "main.js": "https://muathzoubi.github.io/csb-wmt5dy/static/js/main.98ba2fc0.chunk.js",
+    "main.js.map": "https://muathzoubi.github.io/csb-wmt5dy/static/js/main.98ba2fc0.chunk.js.map",
+    "runtime-main.js": "https://muathzoubi.github.io/csb-wmt5dy/static/js/runtime-main.5eba1f5f.js",
+    "runtime-main.js.map": "https://muathzoubi.github.io/csb-wmt5dy/static/js/runtime-main.5eba1f5f.js.map",
+    "static/css/2.02daa001.chunk.css": "https://muathzoubi.github.io/csb-wmt5dy/static/css/2.02daa001.chunk.css",
+    "static/js/2.52f8187a.chunk.js": "https://muathzoubi.github.io/csb-wmt5dy/static/js/2.52f8187a.chunk.js",
+    "static/js/2.52f8187a.chunk.js.map": "https://muathzoubi.github.io/csb-wmt5dy/static/js/2.52f8187a.chunk.js.map",
+    "index.html": "https://muathzoubi.github.io/csb-wmt5dy/index.html",
+    "static/css/2.02daa001.chunk.css.map": "https://muathzoubi.github.io/csb-wmt5dy/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "https://muathzoubi.github.io/csb-wmt5dy/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.52f8187a.chunk.js.LICENSE.txt": "https://muathzoubi.github.io/csb-wmt5dy/static/js/2.52f8187a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eba1f5f.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.52f8187a.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.98ba2fc0.chunk.js"
+  ]
+}
